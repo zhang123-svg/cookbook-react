@@ -53,5 +53,6 @@
     "customize-cra": "^1.0.0",
     "http-proxy-middleware": "^1.0.6",
     "react-app-rewired": "^2.1.8"
-  }
+  },
+  "homepage": "https://zhang123-svg.github.io/cookbook-react"
 }
