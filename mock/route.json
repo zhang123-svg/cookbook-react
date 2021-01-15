@@ -1,0 +1,6 @@
+{
+    "/api/swipper": "/swipper",
+    "/api/hotcate": "/hotcate",
+    "/api/getlist": "/getlist",
+    "/api/category": "/category"
+}
